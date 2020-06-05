@@ -7,7 +7,7 @@ chardet==3.0.4
 coreapi==2.3.3
 coreschema==0.0.4
 decorator==4.4.0
-Django==2.2.2
+Django==2.2.13
 django-rest-swagger==2.2.0
 djangorestframework==3.9.4
 gast==0.2.2
